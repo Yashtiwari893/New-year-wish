@@ -5,17 +5,17 @@ import { useState } from 'react';
 const photos = [
   { 
     id: 1, 
-    src: '/images/photo1.jpg', // Aapki real image ka path
+    src: '/images/img_2.jpeg', // Aapki real image ka path
     caption: 'Sweetest moments' 
   },
   { 
     id: 2, 
-    src: '/images/photo2.jpg', 
+    src: '/images/img_1.jpeg', 
     caption: 'Always together' 
   },
   { 
     id: 3, 
-    src: '/images/photo3.jpg', 
+    src: '/images/img_5.jpeg', 
     caption: 'To more memories' 
   },
 ];
